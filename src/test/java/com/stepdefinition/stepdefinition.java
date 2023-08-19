@@ -244,6 +244,25 @@ public class stepdefinition extends BaseClass {
 	@Then("The browser will be closed")
 	public void the_browser_will_be_closed() throws InterruptedException {
 	    Thread.sleep(2000);
+	    System.out.println("naveen is a test engineer");
+	    System.out.println("naveen is a api tester");
+	    System.out.println("super");
+	    System.out.println("super");
+	    System.out.println("super");
+	    System.out.println("super");
+	    System.out.println("super");
+	    System.out.println("super");
+	    System.out.println("super");
+	    System.out.println("super");
+	    System.out.println("super");
+	    System.out.println("super");
+	    System.out.println("super");
+	    System.out.println("super");
+	    System.out.println("super");
+	    System.out.println("super");
+	    System.out.println("super");
+	    System.out.println("super");
+	    System.out.println("super");
 	    driver.quit();
 	    
 	}
